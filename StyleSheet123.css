@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url('tlllo.PNG');
+}
+img {
+    width: 300px;
+    height: 200px;
+}
+cz1 {
+    margin-left: 200px;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+}
+p {
+    color: black;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    border: inset 3px coral;
+    
+}
+a {
+    color: coral;
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+    text-align: justify;
+    display: inline-block;
+}
+b{
+    background-image: url(NWM.PNG);
+}
